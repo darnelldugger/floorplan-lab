@@ -2,4 +2,41 @@ div {
   border: 1px solid grey;
   margin: 5px;
   padding: 5px;
+  display: gri;
+}
+
+.kitchen {
+  background-color: aqua;
+}
+
+.living-room {
+  background-color: burlywood;
+}
+
+.bedroom-1 {
+  background-color: darkolivegreen;
+}
+
+.bedroom-2{
+  background-color: darkolivegreen;
+}
+
+.bedroom-3 {
+  background-color: darkolivegreen;
+}
+
+.full-bath {
+ background-color: coral;
+}
+
+.half-bath {
+  background-color: coral;
+}
+
+.oven {
+  background-color: blueviolet;
+}
+
+.sink {
+  background-color: brown;
 }
