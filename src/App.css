@@ -1,8 +1,7 @@
 div {
-  border: 1px solid grey;
-  margin: 5px;
-  padding: 5px;
-  display: gri;
+  display: flex;
+  flex-wrap: wrap;
+ 
 }
 
 .kitchen {
@@ -11,32 +10,42 @@ div {
 
 .living-room {
   background-color: burlywood;
+  font-size: 40px;
 }
 
 .bedroom-1 {
   background-color: darkolivegreen;
+  font-size: 40px;
 }
 
 .bedroom-2{
   background-color: darkolivegreen;
+  font-size: 40px;
 }
 
 .bedroom-3 {
   background-color: darkolivegreen;
+  font-size: 40px;
 }
 
 .full-bath {
  background-color: coral;
+ font-size: 40px;
 }
 
 .half-bath {
   background-color: coral;
+  font-size: 20px;
 }
 
 .oven {
   background-color: blueviolet;
+  font-size: 20px;
+  height: 50%;
 }
 
 .sink {
   background-color: brown;
+  font-size: 20px;
+  height: 50%;
 }
